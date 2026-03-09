@@ -1,50 +1,5 @@
-[
-  {
-    "name": "User Research",
-    "prompts": [
-      "Create a survey with 10 questions about user preferences.",
-      "Design an experiment to test the effectiveness of a new feature.",
-      "Analyze user feedback and identify areas for improvement."
-    ]
-  },
-  {
-    "name": "Product Development",
-    "prompts": [
-      "Generate ideas for new product features based on market trends.",
-      "Plan a marketing campaign targeting a specific demographic.",
-      "Develop a prototype for a new AI-powered device."
-    ]
-  },
-  {
-    "name": "Customer Support",
-    "prompts": [
-      "Craft a personalized response to an angry customer complaint.",
-      "Train your chatbot to handle common questions and scenarios.",
-      "Analyze customer sentiment from social media feedback."
-    ]
-  },
-  {
-    "name": "Training Data Generation",
-    "prompts": [
-      "Write a dataset of 1000 sentences about the benefits of AI in everyday life.",
-      "Create a series of images with captions that showcase AI technology.",
-      "Generate fictional data to train a model for a specific use case."
-    ]
-  },
-  {
-    "name": "Sentiment Analysis",
-    "prompts": [
-      "Analyze customer reviews and identify common pain points.",
-      "Track social media sentiment around a particular product or brand.",
-      "Examine the impact of news events on public perception."
-    ]
-  },
-  {
-    "name": "Data Visualization",
-    "prompts": [
-      "Create an interactive dashboard to display real-time data.",
-      "Design a visualization to help stakeholders understand complex trends.",
-      "Analyze historical data to identify patterns and make predictions."
-    ]
-  }
-]
+{
+  "title": "100 Expert Devchallenge Prompts: Copy-Paste AI Commands That Actually Work",
+  "description": "Elevate your AI power user game with our premium pack of 100 expert Devchallenge prompts! Designed to tackle real-world problems and optimized for ChatGPT/Claude, these prompts are a must-have toolset for any serious AI enthusiast. Don't miss out on the opportunity to transform your AI interactions!",
+  "price": 7.0
+}
