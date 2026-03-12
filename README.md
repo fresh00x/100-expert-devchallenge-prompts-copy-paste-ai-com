@@ -1,4 +1,4 @@
-# 100-expert-devchallenge-prompts:-copy-paste-ai-commands-that
+# 100 Expert Devchallenge Prompts: Copy-Paste AI Commands That Actually Work
 
 Elevate your AI power user game with our premium pack of 100 expert Devchallenge prompts! Designed to tackle real-world problems and optimized for ChatGPT/Claude, these prompts are a must-have toolset
 
@@ -6,7 +6,7 @@ Elevate your AI power user game with our premium pack of 100 expert Devchallenge
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 6 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,14 @@ Elevate your AI power user game with our premium pack of 100 expert Devchallenge
 ## Sample
 
 ```json
-Keys: title, description, price
+{
+  "name": "User Research",
+  "prompts": [
+    "Create a survey with 10 questions about user preferences.",
+    "Design an experiment to test the effectiveness of a new feature.",
+    "Analyze user feedback and identify areas for improvement."
+  ]
+}
 ```
 
 ## Usage
